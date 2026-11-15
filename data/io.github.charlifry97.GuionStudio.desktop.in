@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=GuionStudio
+GenericName=Editor de guiones
+Comment=Escritura y organización de guiones audiovisuales
+Exec=guionstudio
+Icon=io.github.charlifry97.GuionStudio
+Terminal=false
+Type=Application
+Categories=Office;Utility;
+Keywords=guion;guionismo;cine;televisión;teatro;screenplay;writing;
+StartupNotify=true
+DBusActivatable=true

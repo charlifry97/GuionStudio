@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.charlifry97.GuionStudio.desktop.in
+data/io.github.charlifry97.GuionStudio.metainfo.xml.in
+data/io.github.charlifry97.GuionStudio.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
